@@ -8,7 +8,13 @@ import java.util.Scanner;
 
 public abstract class AplicantReader
 {
-    public abstract List<Aplicant> readAplicant(String file) throws FileNotFoundException;
+    protected String numefisier;
+    public AplicantReader(String numefisier) {
+        this.numefisier = numefisier;
+    }
+
+    public abstract List<Aplicant> readAplicant() throws FileNotFoundException;
+
     protected void readAplicant(Scanner input, Aplicant outAplicant) {
         String nume = input.next();
         String prenume = (input.next()).toString();
