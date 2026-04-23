@@ -12,18 +12,5 @@ public abstract class MijlocTransport {
     public abstract void afisareDescriere();
 
 
-    public static class Autobuz extends MijlocTransport {
-        public Autobuz(int numarRoti, String numarInmatriculare)
-        {
-            super(numarRoti, numarInmatriculare);
-        }
 
-        @Override
-        public void afisareDescriere() {
-            StringBuilder builder = new StringBuilder();
-            builder.append("Atutobuzul are un nr. de roti: ").append(super.numarRoti);
-            builder.append("\n Nr. Inmatriculare: ").append(super.numarInmatriculare);
-            System.out.println(builder.toString());
-        }
-    }
 }

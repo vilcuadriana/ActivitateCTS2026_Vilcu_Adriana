@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractBuilder/AbstractBuilder.iml" filepath="$PROJECT_DIR$/AbstractBuilder/AbstractBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ActivitateCTS2026_Vilcu_Adriana.iml" filepath="$PROJECT_DIR$/.idea/ActivitateCTS2026_Vilcu_Adriana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar 2/Seminar 2.iml" filepath="$PROJECT_DIR$/Seminar 2/Seminar 2.iml" />
