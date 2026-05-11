@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/AbstractBuilder/AbstractBuilder.iml" filepath="$PROJECT_DIR$/AbstractBuilder/AbstractBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ActivitateCTS2026_Vilcu_Adriana.iml" filepath="$PROJECT_DIR$/.idea/ActivitateCTS2026_Vilcu_Adriana.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chain/Chain.iml" filepath="$PROJECT_DIR$/Chain/Chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
@@ -12,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Simple Factory/Simple Factory.iml" filepath="$PROJECT_DIR$/Simple Factory/Simple Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
     </modules>
   </component>
 </project>
