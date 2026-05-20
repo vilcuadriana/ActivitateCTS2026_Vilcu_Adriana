@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/ActivitateCTS2026_Vilcu_Adriana.iml" filepath="$PROJECT_DIR$/.idea/ActivitateCTS2026_Vilcu_Adriana.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chain/Chain.iml" filepath="$PROJECT_DIR$/Chain/Chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chain1/Chain1.iml" filepath="$PROJECT_DIR$/Chain1/Chain1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
